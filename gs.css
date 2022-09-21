@@ -75,3 +75,18 @@
   font:12
 }
 
+td,th,table{
+color:black;
+border: solid 1px darkslateblue;
+border-collapse:seperate;
+text-align:left;
+padding-top: 4px;
+padding-bottom: 4px;
+padding-left: 4px;
+padding-right: 4px;
+}
+
+tr:nth-child(even) {
+  background-color: lightgrey;
+}
+
