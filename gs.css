@@ -40,6 +40,10 @@
     font-family: Helvetica;
   }
 
+  .ALEX:hover  { 
+    text-shadow: 1px 2px 2px black;
+ }
+
 .ALINE{
   color: red;
   font-family: 'Arial Narrow Bold';
