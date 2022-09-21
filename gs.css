@@ -1,0 +1,77 @@
+  .name {
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font:12
+  }
+
+  .speech {
+    color: black;
+    font-family: sans-serif;
+    font:14
+  }
+
+  .song {
+    color: black;
+    font-family: 'Courier New';
+    font:16
+  }
+
+  .directions {
+    color: rgb(8, 8, 8);
+    background-color: yellow;
+    font-family: 'monospace';
+    font:18
+  }
+
+  .directions:hover  {
+    background-color: #1b2e41;
+    font-family:  'monospace';
+    color: whitesmoke;
+    font:18
+  }
+
+  .ALEX{
+    color: lightcoral;
+    font-family: Helvetica;
+  }
+
+.ALINE{
+  color: red;
+  font-family: 'Arial Narrow Bold';
+}
+
+
+.WELLS{
+  color: orange;
+  font-family: 'Lucida Sans Regular';
+ 
+}
+
+
+.ALL{
+  color: skyblue;
+  font-family: Arial;
+  font:12
+}
+
+
+.MEN{
+  color: navy;
+  font-family: monospace;
+  font:12
+}
+
+
+.GIRLS{
+  color: pink;
+  font-family: Geneva;
+  font:12
+}
+
+
+.CHORUS{
+  color: green;
+  font-family:  Courier;
+  font:12
+}
+
