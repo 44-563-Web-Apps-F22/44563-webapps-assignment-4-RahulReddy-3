@@ -108,3 +108,28 @@ tr:nth-child(even) {
   background-color: lightgrey;
 }
 
+ul {
+  list-style-type: none;
+  margin: 1px;
+  padding: 1px;
+  overflow: hidden;
+  background-color: rgb(41, 234, 218);
+}
+
+
+
+li {
+  float: left;
+}
+
+
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 8px 8px;
+  text-decoration: none;
+
+}
+
